@@ -269,7 +269,7 @@ set_site_information(
     them into random 4-line stanzas.""",
     sources=["Official Drafter documentation"],
     planning=["plan.pdf"],
-    links=["https://github.com/vonduykeschool-rgb/Hook-Lab"]
+    links=["https://github.com/vonduykeschool-rgb/HookLabApp"]
 )
 hide_debug_information()
 set_website_title("Hook Lab")
